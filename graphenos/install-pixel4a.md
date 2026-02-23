@@ -60,3 +60,11 @@ In Vanadium, browse to https://f-droid.org.
     4. Once the FDroid. ...
     5. Tap INSTALL in the F-Droid Do you want to install this application? ...
     6. Tap DONE in the F-Droid App installed dialog.
+
+## Setup Google identity account:
+
+1. Create new user
+2. swipe up to view all apps
+3. tap on Apps
+4. tap on Google Play Services
+5. Tap to install the 3 components: GmsCompatConfig, GSF, Google Play Store. They will install.
