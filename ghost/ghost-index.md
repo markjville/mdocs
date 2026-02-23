@@ -4,6 +4,7 @@
 # Ghost recipes
 
 [Add “www” cert to site with an existing non-www cert](ghost/add-www-cert.md)
+
 [Install Ghost on Digital Ocean](ghost/install-ghost-digoc.md)
 
 [Ghost Tweaks](ghost/tweakin-ghost.md)
