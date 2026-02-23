@@ -1,17 +1,17 @@
 # Notes on installing Ghost on Digital Ocean
 
-1) Networking:
+1) **Networking:**
 - Create A record for domain in DNS settings.
 - Add A record to the digital ocean firewall for this droplet.
 
-2) Update Ubuntu
+2) **Update Ubuntu**
 `sudo apt update;sudo apt upgrade`
 
-3) Install Node.js on Ubuntu
+3) **Install Node.js on Ubuntu**
 `	curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
 `	sudo apt install nodejs`
 
-- Check Node version.
+- Check Node version
 `	node -v`
 - Sample output:
 `	v10.18.1`
@@ -21,13 +21,13 @@
 - Sample output:
 `	6.13.4`
 
-4) Install MariaDB Database Server
+4) **Install MariaDB Database Server**
 `	sudo apt install mariadb-server mariadb-client`
 
 - Check status of MariaDB:
 `	systemctl status mariadb`
 
--Make persistent:
+- Make persistent:
 `	sudo systemctl enable mariadb`
 
 - Secure MariaDB
@@ -42,13 +42,13 @@
 `	flush privileges;`
 `	exit;`
 
-5) Install Nginx Web Server
+5) **Install Nginx Web Server**
 `	sudo apt install nginx`
 
-- Open port 80 and 443.
+- Open port 80 and 443
 `	sudo ufw allow ‘Nginx Full’`
 
-6) Install Ghost
+6) **Install Ghost**
 `	sudo npm install ghost-cli@latest -g`
 - Create a directory (/var/www/ghost/) for Ghost.
 `	sudo mkdir -p /var/www/ghost/`
@@ -66,7 +66,7 @@
 `	? Enter your Ghost database name: ghost`
 - Recommended that you accept to set up Nginx, SSL, and Systemd.
 	
-7) Edit the Nginx Config File
+7) **Edit the Nginx Config File**
 `	sudo vi /etc/nginx/sites-enabled/yourdomain.com.conf`
 - Find the following line
 `	server_name yourdomain.com;`
@@ -75,7 +75,7 @@
 - Save and close the file. Then delete the /etc/nginx/sites-enabled/yourdomain.com-ssl.conf file.
 `	sudo rm /etc/nginx/sites-enabled/yourdomain.com-ssl.conf`
 
-8) Install the Certbot Let’s Encrypt client
+8) **Install the Certbot Let’s Encrypt client**
 `	sudo apt install certbot python3-certbot-nginx`
 - Obtain SSL certificate for both the www domain and the non-www domain.
 
@@ -84,7 +84,7 @@
 -Restart Nginx.
 `sudo systemctl restart nginx`
 
-8. Misc tasks
+9. **Misc tasks**
 - add markjville to ghost group
 - change` /var/www/ghost ownership to your-user`
 
