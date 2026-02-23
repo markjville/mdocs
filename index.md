@@ -4,7 +4,7 @@ It often happens that when setting up some new _thing_ (server, application, Db,
 
 Below are various categories with tasty tips and succulent configs.
 
-[Ghost](/mdocs/ghost/ghost-index.md)
+[Ghost](https://markjville.github.io/mdocs/ghost/ghost-index.md)
 
 [GrapheneOS]
 
