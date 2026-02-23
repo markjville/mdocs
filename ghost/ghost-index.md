@@ -5,9 +5,9 @@
 
 [Add “www” cert to site with an existing non-www cert](add-www-cert.md)
 
-[Install Ghost on Digital Ocean](ghost/install-ghost-digoc.md)
+[Install Ghost on Digital Ocean](install-ghost-digoc.md)
 
-[Ghost Tweaks](ghost/tweakin-ghost.md)
+[Ghost Tweaks](tweakin-ghost.md)
 
-[Networking config for VPS](ghost/vps-networking.md)
+[Networking config for VPS](vps-networking.md)
 
