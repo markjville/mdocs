@@ -6,7 +6,7 @@ Below are various categories with tasty tips and succulent configs.
 
 [Ghost](ghost/ghost-index.md)
 
-[GrapheneOS]
+[GrapheneOS](grapheneos/grapheneos-index.md)
 
 [HTML-CSS]
 
