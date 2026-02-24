@@ -22,7 +22,7 @@
 
 [Force log off user](force-logoff-user.md)
 
-[HFS+ support]()
+[HFS+ support](hfs-plus-support.md)
 
 [Hostname]()
 
