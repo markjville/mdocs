@@ -1,3 +1,3 @@
 Recipes for Linux graphics!
 
-[Batch convert images]()
+[Batch convert images](batch-convert-img.md)
