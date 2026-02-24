@@ -20,7 +20,7 @@
 
 [Expanding a partition on a VM](resizing-root-vm.md)
 
-[Force log off user]()
+[Force log off user](force-logoff-user.md)
 
 [HFS+ support]()
 
