@@ -26,9 +26,7 @@
 
 [Hostname](hostname.md)
 
-[Installing ClamAV]()
-
-[Install XFCE]()
+[Install XFCE](C7-install-xfce.md)
 
 [LAMP stack install]()
 
