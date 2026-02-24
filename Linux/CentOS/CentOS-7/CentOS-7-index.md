@@ -32,7 +32,7 @@
 
 [Mount NFS share on C7](mount-nfs-drive.md)
 
-[Restart GDM]()
+[Restart GDM](restart-gdm.md)
 
 [UEFI support for QEMU]()
 
