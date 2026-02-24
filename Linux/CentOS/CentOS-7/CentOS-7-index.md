@@ -12,7 +12,7 @@
 
 [Upgrade kernel](C7-upgrade-kernel.md)
 
-[Check OS Version]()
+[Check OS Version](check-os-version.md)
 
 [Clone a VM]()
 
