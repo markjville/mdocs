@@ -32,4 +32,4 @@
 
 [Restart Networking](C8-restart-network.md)
 
-[Setup MariaDB]()
+[Setup MariaDB](C8-mariadb.md)
