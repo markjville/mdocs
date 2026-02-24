@@ -17,4 +17,5 @@ Use the followings commands to restart network service on your CentOS/RHEL 8 Lin
 The nmcli is the command-line utility for the managing NetworkManager on CentOS/RHEL 8 Linux system. You can simply use this utility to stop/start network service on your CentOS 8 or RHEL 8 system.
 
 `sudo nmcli networking off`
+
 `sudo nmcli networking on`
