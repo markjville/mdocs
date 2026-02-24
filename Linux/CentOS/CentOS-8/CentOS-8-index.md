@@ -18,7 +18,7 @@
 
 [Configure KVM_Qemu](C8-kvm.md)
 
-[Create NIC Team]()
+[Create NIC Team](C8-nic-team.md)
 
 [FFmpeg]()
 
