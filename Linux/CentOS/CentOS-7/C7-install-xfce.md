@@ -19,7 +19,7 @@
 `systemctl get-default`
 
 5. Set the system to boot into a graphical environment
-6. 
+
 `systemctl set-default graphical.target`
 
 6. Verify that the change took
