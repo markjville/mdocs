@@ -24,7 +24,7 @@
 
 [HFS+ support](hfs-plus-support.md)
 
-[Hostname]()
+[Hostname](hostname.md)
 
 [Installing ClamAV]()
 
