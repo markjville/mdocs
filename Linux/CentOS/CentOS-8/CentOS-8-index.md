@@ -2,7 +2,7 @@
 
 [Bad Repo](bad-repo.md)
 
-[C8-Install ClamAV]()
+[C8-Install ClamAV](C8-ClamAV.md)
 
 [C8-Install GUI]()
 
