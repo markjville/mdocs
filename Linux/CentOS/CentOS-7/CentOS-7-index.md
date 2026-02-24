@@ -1,3 +1,5 @@
+# CentOS 7 Recipes!
+
 [Install Printer on CentOS 7](C7-install-printer.md)
 
 [Add printer via terminal](C7-install-printer-terminal.md)
