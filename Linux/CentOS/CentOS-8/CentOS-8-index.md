@@ -6,7 +6,7 @@
 
 [C8-Install GUI](C8-gui.md)
 
-[C8-install VLC]()
+[C8-install VLC](C8-vlc.md)
 
 [C8-install vobcopy]()
 
