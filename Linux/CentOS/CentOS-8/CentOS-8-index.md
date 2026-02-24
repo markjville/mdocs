@@ -24,7 +24,7 @@
 
 [Firewalld](C8-firewalld.md)
 
-[HPLIP]()
+[HPLIP](C8-hplip.md)
 
 [NFTS setup]()
 
