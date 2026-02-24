@@ -1,4 +1,4 @@
-# How to Set Up a Printer by Using the lpadmin Command
+# How to Set Up a Printer at the Command Line By Using the lpadmin Command
 
     1. Connect the printer to the system, then turn on the power to the printer.
        
