@@ -6,8 +6,8 @@
 ## 2. Make persistent:
 `systemctl enable --now mariadb`
 
-## 3. Harden MariaDB database server security:
+## 3. Harden MariaDB database server security and answering questions prompt:
 `mysql_secure_installation`
 	
-## 4. Verify install:
+## 4. Verify install by log in with root creds:
 `mysql -u root -p`
