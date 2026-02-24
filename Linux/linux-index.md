@@ -4,8 +4,6 @@
 
 [CentOS](CentOS/CentOS-index.md)
 
-[Gnome 3]
-
 [Graphics]
 
 [Raspian]
