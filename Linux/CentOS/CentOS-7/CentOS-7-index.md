@@ -1,6 +1,6 @@
 [Install Printer on CentOS 7](C7-install-printer.md)
 
-[Add printer via terminal](C7-iinstall-printer-terminal.md)
+[Add printer via terminal](C7-install-printer-terminal.md)
 
 [Add user to sudoers group]()
 
