@@ -2,7 +2,7 @@
 
 [Add printer via terminal](C7-install-printer-terminal.md)
 
-[Add user to sudoers group]()
+[Add user to sudoers group](add-users-sudogrp.md)
 
 [Commands for shutdown, restart, etc]()
 
