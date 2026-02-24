@@ -28,7 +28,7 @@
 
 [NFTS setup](C8-nfts.md)
 
-[rar]()
+[rar](C8-rar.md)
 
 [Restart Networking]()
 
