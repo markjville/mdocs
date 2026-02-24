@@ -10,7 +10,7 @@ Below are various categories with tasty tips and succulent configs.
 
 [Linux](Linux/linux-index.md)
 
-[macOS]
+[macOS](macos-index.md)
 
 [Proceedures]
 
