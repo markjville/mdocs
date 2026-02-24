@@ -16,3 +16,4 @@ cd foo2zjs
 sudo make install
 
 sudo make cups
+```
