@@ -1,6 +1,6 @@
 # macOS Recipes!
 
-[Make USB installer for MacOS](macos-index.md)
+[Make USB installer for MacOS](mac-usb-installer.md)
 
 [Partition USB]()
 
