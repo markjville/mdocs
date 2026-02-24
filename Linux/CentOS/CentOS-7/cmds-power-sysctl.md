@@ -1,11 +1,20 @@
 # Shutting Down, Suspending, or Rebooting Commands with systemctl
 
-systemctl halt - shutting down in dirty state
+For a clean shutdown (recommended choice)
+`systemctl poweroff`
 
-systemctl poweroff - clean shutdown
+Shutting down in dirty state (last resort)
 
-systemctl reboot - reboots
+`systemctl halt`
 
-systemctl suspend 
+For a simple reboot
 
-systemctl hibernate 
+`systemctl reboot`
+
+To sleep (put data in RAM)
+
+`systemctl suspend` 
+
+To hibernate (put data on disk)
+
+`systemctl hibernate`
