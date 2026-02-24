@@ -44,7 +44,7 @@ User clamscan
 LocalSocket /var/run/clamd.<SERVICE>/clamd.sock
 ```
 
-# Enable Freshclam
+## Enable Freshclam
 
 Freshclam helps with keeping the database of ClamAV up-to-date. First delete the related “Example” line from /etc/freshclam.conf.
 
