@@ -14,7 +14,7 @@
 
 [Check OS Version](check-os-version.md)
 
-[Clone a VM]()
+[Clone a VM](clone-vm.md)
 
 [Converting images in qemu]()
 
