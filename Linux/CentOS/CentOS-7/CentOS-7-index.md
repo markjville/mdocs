@@ -36,6 +36,6 @@
 
 [UEFI support for QEMU](uefi-support-qemu.md)
 
-[Users]()
+[Users](manage-users.md)
 
 [VM setup]()
