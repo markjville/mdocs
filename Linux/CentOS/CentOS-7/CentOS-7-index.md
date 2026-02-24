@@ -18,7 +18,7 @@
 
 [Converting images in qemu](converting-images-qemu.md)
 
-[Expanding a partition on a VM]()
+[Expanding a partition on a VM](resizing-root-vm.md)
 
 [Force log off user]()
 
