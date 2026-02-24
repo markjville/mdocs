@@ -28,8 +28,6 @@
 
 [Install XFCE](C7-install-xfce.md)
 
-[LAMP stack install]()
-
 [List drives]()
 
 [Mount Ready-NAS NFS share on C7]()
