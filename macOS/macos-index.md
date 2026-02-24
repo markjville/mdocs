@@ -4,4 +4,4 @@
 
 [Partition USB](mac-partition-usb.md)
 
-[Triple boot Mac]()
+[Triple boot Mac](macOS-tripleboot.md)
