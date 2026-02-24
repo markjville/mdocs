@@ -28,7 +28,7 @@
 
 [Install XFCE](C7-install-xfce.md)
 
-[List drives]()
+[List drives](list-drives.md)
 
 [Mount Ready-NAS NFS share on C7]()
 
