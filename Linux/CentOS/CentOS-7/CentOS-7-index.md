@@ -34,7 +34,7 @@
 
 [Restart GDM](restart-gdm.md)
 
-[UEFI support for QEMU]()
+[UEFI support for QEMU](uefi-support-qemu.md)
 
 [Users]()
 
