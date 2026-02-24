@@ -8,7 +8,7 @@
 
 [C8-install VLC](C8-vlc.md)
 
-[C8-install vobcopy]()
+[C8-install vobcopy](C8-vobcopy.md)
 
 [C8-Install Wine]()
 
