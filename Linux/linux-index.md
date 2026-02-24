@@ -4,7 +4,7 @@
 
 [CentOS](CentOS/CentOS-index.md)
 
-[Graphics]
+[Graphics](graphic/graphics-index.md)
 
 [Raspian]
 
