@@ -14,7 +14,7 @@
 
 [C8-Play DVDs](C8-dvd.md)
 
-[C8 server Post install]()
+[C8 server Post install](C8-server-post-install.md)
 
 [Configure KVM_Qemu]()
 
