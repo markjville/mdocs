@@ -4,7 +4,7 @@
 
 [Add user to sudoers group](add-users-sudogrp.md)
 
-[Commands for shutdown, restart, etc]()
+[Commands for shutdown, restart, etc](cmds-power-sysctl.md)
 
 [Installing ClamAV]()
 
