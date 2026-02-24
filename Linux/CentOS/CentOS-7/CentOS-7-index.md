@@ -1,4 +1,4 @@
-[Install Printer on CentOS 7]()
+[Install Printer on CentOS 7](C7-install-printer.md)
 
 [Add printer via terminal]()
 
