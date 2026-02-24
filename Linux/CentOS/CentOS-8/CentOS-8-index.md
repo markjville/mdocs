@@ -1,6 +1,6 @@
 # CentOS 8 Recipes!
 
-[Bad Repo]()
+[Bad Repo](bad-repo.md)
 
 [C8-Install ClamAV]()
 
