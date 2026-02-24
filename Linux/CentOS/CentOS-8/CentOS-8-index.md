@@ -4,7 +4,7 @@
 
 [C8-Install ClamAV](C8-ClamAV.md)
 
-[C8-Install GUI]()
+[C8-Install GUI](C8-gui.md)
 
 [C8-install VLC]()
 
