@@ -26,7 +26,7 @@
 
 [HPLIP](C8-hplip.md)
 
-[NFTS setup]()
+[NFTS setup](C8-nfts.md)
 
 [rar]()
 
