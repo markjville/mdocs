@@ -6,7 +6,7 @@
 
 [Commands for shutdown, restart, etc](cmds-power-sysctl.md)
 
-[Installing ClamAV]()
+[Installing ClamAV](C7-install-ClamAV.md)
 
 [C7 server post install]()
 
