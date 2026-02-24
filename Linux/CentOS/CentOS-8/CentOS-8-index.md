@@ -16,7 +16,7 @@
 
 [C8 server Post install](C8-server-post-install.md)
 
-[Configure KVM_Qemu]()
+[Configure KVM_Qemu](C8-kvm.md)
 
 [Create NIC Team]()
 
