@@ -2,7 +2,7 @@
 
 [Audio](audio/audio-index.md)
 
-[CentOS]
+[CentOS](/CentOS/CentOS-index.md)
 
 [Gnome 3]
 
