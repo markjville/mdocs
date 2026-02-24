@@ -12,7 +12,7 @@
 
 [C8-Install Wine](C8-wine.md)
 
-[C8-Play DVDs]()
+[C8-Play DVDs](C8-dvd.md)
 
 [C8 server Post install]()
 
