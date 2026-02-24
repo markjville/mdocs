@@ -30,6 +30,6 @@
 
 [rar](C8-rar.md)
 
-[Restart Networking]()
+[Restart Networking](C8-restart-network.md)
 
 [Setup MariaDB]()
