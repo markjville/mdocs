@@ -10,7 +10,7 @@
 
 [C7 server post install](C7-post-install.md)
 
-[Upgrade kernel]()
+[Upgrade kernel](C7-upgrade-kernel.md)
 
 [Check OS Version]()
 
