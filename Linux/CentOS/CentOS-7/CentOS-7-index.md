@@ -30,7 +30,7 @@
 
 [List drives](list-drives.md)
 
-[Mount Ready-NAS NFS share on C7]()
+[Mount NFS share on C7](mount-nfs-drive.md)
 
 [Restart GDM]()
 
