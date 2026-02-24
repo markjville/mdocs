@@ -8,9 +8,7 @@ Below are various categories with tasty tips and succulent configs.
 
 [GrapheneOS](grapheneos/grapheneos-index.md)
 
-[HTML-CSS]
-
-[Linux]
+[Linux](Linux/linux-index.md)
 
 [macOS]
 
