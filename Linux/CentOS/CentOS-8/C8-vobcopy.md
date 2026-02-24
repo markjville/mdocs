@@ -8,4 +8,4 @@ Or
 
 ## 2. Download and install latest vobcopy package if you have EPEL repo installed:
 
-`dnf install vobcopy`
+`sudo dnf install vobcopy`
