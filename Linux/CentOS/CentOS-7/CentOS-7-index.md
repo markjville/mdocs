@@ -38,4 +38,4 @@
 
 [Users](manage-users.md)
 
-[VM setup]()
+[VM setup](vm-setup.md)
