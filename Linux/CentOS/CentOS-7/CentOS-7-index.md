@@ -16,7 +16,7 @@
 
 [Clone a VM](clone-vm.md)
 
-[Converting images in qemu]()
+[Converting images in qemu](converting-images-qemu.md)
 
 [Expanding a partition on a VM]()
 
