@@ -1,6 +1,6 @@
 # Linux recipes!
 
-[Audio](audio-index.md)
+[Audio](audio/audio-index.md)
 
 [CentOS]
 
