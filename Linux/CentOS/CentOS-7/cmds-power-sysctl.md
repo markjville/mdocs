@@ -1,6 +1,7 @@
 # Shutting Down, Suspending, or Rebooting Commands with systemctl
 
 For a clean shutdown (recommended choice)
+
 `systemctl poweroff`
 
 Shutting down in dirty state (last resort)
