@@ -2,7 +2,7 @@
 
 [Battery health check](w7-check-battery.md)
 
-[Compressed files- Access Denied]()
+[Compressed files- Access Denied](W-zipfolder-error.md)
 
 [Deleting Subborn Print Jobs]()
 
