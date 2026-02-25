@@ -1,5 +1,7 @@
 # Miscellaneous Linux recipes!
 
+[Auto Mount a Local Drive](auto-mount-drive.md)
+
 [Make Appimage appear in Gnome Launcher](misc-appimage-desktop.md)
 
 [Batch rename files](misc-batch-rename.md)
