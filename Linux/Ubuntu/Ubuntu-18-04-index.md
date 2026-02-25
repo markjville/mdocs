@@ -6,7 +6,7 @@
 
 [Nginx](Ubuntu18/u18-nginx.md)
 
-[SSH setup]()
+[SSH setup](Ubuntu/u18-ssh.md)
 
 [Ubuntu Server 1804 post-install]()
 
