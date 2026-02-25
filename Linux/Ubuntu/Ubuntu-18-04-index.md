@@ -1,6 +1,6 @@
 # Ubuntu 18.04 Recipes!
 
-[Hostname]()
+[Hostname](u18-hostname.md)
 
 [Mount NFS share on NAS]()
 
