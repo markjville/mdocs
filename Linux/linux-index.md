@@ -10,7 +10,7 @@
 
 [Ubuntu](Ubuntu/Ubuntu-index.md)
 
-[Video]
+[Video](Video/video-index.md)
 
 [Misc.]
 
