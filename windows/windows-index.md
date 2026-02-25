@@ -4,7 +4,7 @@
 
 [Compressed files- Access Denied](W-zipfolder-error.md)
 
-[Deleting Subborn Print Jobs]()
+[Deleting Subborn Print Jobs](w-delete-printjob.md)
 
 [Error- Windows could not connect to the group policy client service]()
 
