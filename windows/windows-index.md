@@ -26,7 +26,7 @@
 
 [Proceedure for Compromised Computer](compromised-windows.md)
 
-[Restore lost Documents folder]()
+[Restore lost Documents folder](w-lost-docs.md)
 
 [Save a PuTTY connection]()
 
