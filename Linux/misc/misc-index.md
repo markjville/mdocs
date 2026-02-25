@@ -7,3 +7,5 @@
 [Batch delete files](misc-batch-delete-files.md)
 
 [Using DD](misc-dd.md)
+
+[Drivers in Linux](misc-drivers.md)
