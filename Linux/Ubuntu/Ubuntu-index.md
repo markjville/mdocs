@@ -16,8 +16,6 @@
 
 [Ubuntu 18-04]()
 
-[Ubuntu 20-04]()
-
 [Ubuntu post install](Ubuntu-desktop-post-install.md)
 
 [Ubuntu- set up KVM](u-kvm-setup.md)
