@@ -14,6 +14,6 @@
 
 [Printing on Linux](lprint/lprint-index.md)
 
-[Misc.]
+[Misc.](/misc/misc-index.md)
 
 [On SE Linux](se-linux.md)
