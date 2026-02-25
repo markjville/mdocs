@@ -8,7 +8,7 @@
 
 [Raspian](Raspbian/Raspbian-index.md)
 
-[Ubuntu]
+[Ubuntu](Ubuntu/Ubuntu-index.md)
 
 [Video]
 
