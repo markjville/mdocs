@@ -6,6 +6,8 @@
 
 [Batch delete files](misc-batch-delete-files.md)
 
+[Find examples](misc-find.md)
+
 [Using DD](misc-dd.md)
 
 [Drivers in Linux](misc-drivers.md)
