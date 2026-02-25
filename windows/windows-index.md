@@ -32,7 +32,7 @@
 
 [Servicing Windows computer checklist](transfer-office.md)
 
-[Transfer MS Office to new computer]()
+[Transfer MS Office to new computer](w-transfer-stickynotes.md)
 
 [Transferring Stickynotes]()
 
