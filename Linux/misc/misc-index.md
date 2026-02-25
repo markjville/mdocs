@@ -8,6 +8,8 @@
 
 [Find examples](misc-find.md)
 
+[HW info](misc-hwinfo.md)
+
 [Using DD](misc-dd.md)
 
 [Drivers in Linux](misc-drivers.md)
