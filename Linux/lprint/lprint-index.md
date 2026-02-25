@@ -4,4 +4,4 @@
 
 [Batch print to a printer](lprint-batch-print.md)
 
-[CmdLine printing multiple files]()
+[CmdLine printing multiple files](lprint-cmd-print.md)
