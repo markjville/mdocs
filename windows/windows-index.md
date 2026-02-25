@@ -30,8 +30,6 @@
 
 [Save a PuTTY connection](save-putty-con.md)
 
-[Server 2008r2]()
-
 [Servicing Windows computer checklist]()
 
 [Transfer MS Office to new computer]()
