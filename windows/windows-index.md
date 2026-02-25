@@ -22,9 +22,9 @@
 
 [Office- Turn off Protected View](office-turnoff-protectedview.md)
 
-[Outlook]()
+[Outlook]
 
-[Proceedure for Compromised Computer]()
+[Proceedure for Compromised Computer](compromised-windows.md)
 
 [Restore lost Documents folder]()
 
