@@ -30,7 +30,7 @@
 
 [Save a PuTTY connection](save-putty-con.md)
 
-[Servicing Windows computer checklist]()
+[Servicing Windows computer checklist](transfer-office.md)
 
 [Transfer MS Office to new computer]()
 
