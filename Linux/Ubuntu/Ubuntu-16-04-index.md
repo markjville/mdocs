@@ -1,6 +1,6 @@
 # Ubuntu 16.04 Recipes!
 
-[Change VNC password]()
+[Change VNC password](Ubuntu16/u16-vnc-passwd.md)
 
 [Determine current VNC port]()
 
