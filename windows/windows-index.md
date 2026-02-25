@@ -30,11 +30,11 @@
 
 [Save a PuTTY connection](save-putty-con.md)
 
-[Servicing Windows computer checklist](transfer-office.md)
+[Servicing Windows computer checklist]()
 
-[Transfer MS Office to new computer](w-transfer-stickynotes.md)
+[Transfer MS Office to new computer](transfer-office.md)
 
-[Transferring Stickynotes]()
+[Transferring Stickynotes](w-transfer-stickynotes.md)
 
 [W10 PasswordReset]()
 [Windows 10 maintenace]()
