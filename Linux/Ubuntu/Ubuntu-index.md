@@ -12,9 +12,9 @@
 
 [Ubuntu 12-04]()
 
-[Ubuntu 16-04]()
+[Ubuntu 16-04](Ubuntu-16-04-index.md)
 
-[Ubuntu 18-04](Ubuntu-16-04-index.md)
+[Ubuntu 18-04](Ubuntu-18-04-index.md)
 
 [Ubuntu post install](Ubuntu-desktop-post-install.md)
 
