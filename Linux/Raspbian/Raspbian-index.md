@@ -6,4 +6,4 @@ Raspbian Recipes!
 
 [Plex on Raspberry Pi](r-plex.md)
 
-[Static IP]()
+[Static IP](r-static-ip.md)
