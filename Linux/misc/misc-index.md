@@ -15,3 +15,5 @@
 [Using DD](misc-dd.md)
 
 [Drivers in Linux](misc-drivers.md)
+
+[Virsh commands](misc-virsh.md)
