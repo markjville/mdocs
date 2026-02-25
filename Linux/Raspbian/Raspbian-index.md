@@ -4,6 +4,6 @@ Raspbian Recipes!
 
 [Enable ssh](raspbian-ssh.md)
 
-[Plex on Raspberry Pi]()
+[Plex on Raspberry Pi](r-plex.md)
 
 [Static IP]()
