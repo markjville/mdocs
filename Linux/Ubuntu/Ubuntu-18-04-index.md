@@ -10,4 +10,4 @@
 
 [Ubuntu Server 1804 post-install](Ubuntu18/u18-server-post-install.md)
 
-[VNC on 1804-x11]()
+[VNC on 1804-x11](Ubuntu18/u18-vnc.md)
