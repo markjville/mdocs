@@ -12,7 +12,7 @@
 
 [Fix Windows Update](windows-index.md)
 
-[Forcing Group Policy update]()
+[Forcing Group Policy update](w-force-update-gpolicy.md)
 
 [Generate HW report]()
 
