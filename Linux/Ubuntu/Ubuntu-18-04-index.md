@@ -4,7 +4,7 @@
 
 [Mount NFS share on NAS](Ubuntu18/u18-mount-nas.md)
 
-[Nginx]()
+[Nginx](Ubuntu18/u18-nginx.md)
 
 [SSH setup]()
 
