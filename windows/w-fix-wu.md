@@ -19,7 +19,7 @@ Run as administrator the command promptType the following:
 
 7. `net start wuauserv`
   
-8.`net start cryptSvc`
+8. `net start cryptSvc`
 
 9. `net start bits`
 
