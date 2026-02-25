@@ -16,4 +16,6 @@
 
 [Misc.](/misc/misc-index.md)
 
+[Server Setup Overview](misc-server-setup.md)
+
 [On SE Linux](se-linux.md)
