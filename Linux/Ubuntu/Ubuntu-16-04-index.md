@@ -1,4 +1,4 @@
-# Ubuntu 15.04 Recipes!
+# Ubuntu 16.04 Recipes!
 
 [Ubuntu 16-04/Change VNC password]()
 
