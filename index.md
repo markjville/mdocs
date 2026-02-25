@@ -14,4 +14,4 @@ Below are various categories with tasty tips and succulent configs.
 
 [Proceedures]
 
-[Windows]
+[Windows](windows-index.md)
