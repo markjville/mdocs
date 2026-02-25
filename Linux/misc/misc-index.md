@@ -5,3 +5,5 @@
 [Batch rename files](misc-batch-rename.md)
 
 [Batch delete files](misc-batch-delete-files.md)
+
+[Using DD](misc-dd.md)
