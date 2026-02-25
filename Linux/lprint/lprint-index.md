@@ -2,6 +2,6 @@
 
 [Add printer through CUPS]()
 
-[Batch print to basement printer]()
+[Batch print to a printer]()
 
 [CmdLine printing multiple files]()
