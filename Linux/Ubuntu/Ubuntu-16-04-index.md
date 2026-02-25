@@ -2,7 +2,7 @@
 
 [Change VNC password](Ubuntu16/u16-vnc-passwd.md)
 
-[Determine current VNC port]()
+[Determine current VNC port](Ubuntu16/u16-determine-vnc-port.md)
 
 [Setup VNC on Ubuntu 16-04]()
 
