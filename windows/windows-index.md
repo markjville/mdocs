@@ -28,7 +28,7 @@
 
 [Restore lost Documents folder](w-lost-docs.md)
 
-[Save a PuTTY connection]()
+[Save a PuTTY connection](save-putty-con.md)
 
 [Server 2008r2]()
 
