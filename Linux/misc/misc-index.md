@@ -4,6 +4,8 @@
 
 [Determine Desktop environment and Display Manager](determine-gui-dm.md)
 
+[Encrypt PDF](encrypt-pdf.md)
+
 [Make Appimage appear in Gnome Launcher](misc-appimage-desktop.md)
 
 [Batch rename files](misc-batch-rename.md)
