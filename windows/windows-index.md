@@ -14,7 +14,7 @@
 
 [Forcing Group Policy update](w-force-update-gpolicy.md)
 
-[Generate HW report]()
+[Generate HW report](w-gen-hw-report.md)
 
 [HD no free space]()
 
