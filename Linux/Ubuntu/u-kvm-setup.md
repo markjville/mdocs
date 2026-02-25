@@ -1,18 +1,18 @@
 # Setup KVM/Qemu on Ubuntu
 
 1. Verify CPU supports:
-2. 
+
 `egrep -c ‘(svm|vmx)’ /proc/cpuinfo`
 
-3. Install:
-4. 
+2. Install:
+
 `sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virt-manager`
 
 
-5. Add user account to users of libvirt:
-6. 
+3. Add user account to users of libvirt:
+
 `sudo adduser [username] libvirt`
 
-7. Verify install:
-8. 
+4. Verify install:
+
 `virsh -c qemu:///system list`
