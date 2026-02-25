@@ -10,6 +10,8 @@
 
 [HW info](misc-hwinfo.md)
 
+[SCP](misc-scp.md)
+
 [Using DD](misc-dd.md)
 
 [Drivers in Linux](misc-drivers.md)
