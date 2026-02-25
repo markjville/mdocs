@@ -16,7 +16,7 @@
 
 [Generate HW report](w-gen-hw-report.md)
 
-[HD no free space]()
+[HD no free space](w-no-diskspace-log.m)
 
 [Office Product Key retrieval]()
 
