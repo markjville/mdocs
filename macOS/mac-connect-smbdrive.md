@@ -5,6 +5,6 @@
 3. URL: smb://x.x.x.x/users (use IP of file server)
 4. When prompted, enter the file server user credentials
    
-u: `fileserver-hostname\username`
+Username: `fileserver-hostname\username`
 
-p: password as was assigned on fileserver.
+Password: password as was assigned on fileserver.
