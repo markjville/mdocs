@@ -20,6 +20,8 @@
 
 [HW info](misc-hwinfo.md)
 
+[Source Code-Compile and Install](misc-source-code.md)
+
 [SCP](misc-scp.md)
 
 [SSH keys](ssh-keys.md)
