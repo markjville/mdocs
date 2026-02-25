@@ -10,4 +10,4 @@
 
 [Static IP on 16-04](Ubuntu16/u16-static-ip.md)
 
-[VNC setup Lubuntu 16-04]()
+[VNC setup Lubuntu 16-04](Ubuntu16/u16-vnc-lubuntu.md)
