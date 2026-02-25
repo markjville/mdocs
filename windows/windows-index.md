@@ -1,6 +1,6 @@
 # Windows Recipes!
 
-[Battery health check]()
+[Battery health check](w7-check-battery.md)
 
 [Compressed files- Access Denied]()
 
