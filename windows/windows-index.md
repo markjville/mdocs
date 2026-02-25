@@ -39,3 +39,5 @@
 [W10 PasswordReset]( w10-pword-reset.md)
 
 [Windows 10 maintenace](W10-maintenance.md)
+
+[Add Static Route](w-add-static-route.md)
