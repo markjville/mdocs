@@ -36,5 +36,6 @@
 
 [Transferring Stickynotes](w-transfer-stickynotes.md)
 
-[W10 PasswordReset]()
+[W10 PasswordReset]( w10-pword-reset.md)
+
 [Windows 10 maintenace]()
