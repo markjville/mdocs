@@ -1,8 +1,8 @@
 # Ubuntu 18.04 Recipes!
 
-[Hostname](u18-hostname.md)
+[Hostname](Ubuntu18/u18-hostname.md)
 
-[Mount NFS share on NAS]()
+[Mount NFS share on NAS](Ubuntu18/u18-mount-nas.md)
 
 [Nginx]()
 
