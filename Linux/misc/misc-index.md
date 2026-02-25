@@ -1,3 +1,3 @@
-Miscellaneous Linux recipes!
+# Miscellaneous Linux recipes!
 
-[Batch rename files]()
+[Batch rename files](misc-batch-rename.md)
