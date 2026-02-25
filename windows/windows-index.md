@@ -6,7 +6,7 @@
 
 [Deleting Subborn Print Jobs](w-delete-printjob.md)
 
-[Error- Windows could not connect to the group policy client service]()
+[Error- Windows could not connect to the group policy client service](w-no-connect-group-policy-services.md)
 
 [Find MAC from IP on Windows]()
 
