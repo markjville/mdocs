@@ -10,7 +10,7 @@
 
 [Find MAC from IP on Windows](w-mac-addr.md)
 
-[Fix Windows Update]()
+[Fix Windows Update](windows-index.md)
 
 [Forcing Group Policy update]()
 
