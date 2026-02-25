@@ -8,6 +8,6 @@
 
 [SSH setup on 16-04](Ubuntu16/u16-ssh.md)
 
-[Static IP on 16-04]()
+[Static IP on 16-04](Ubuntu16/u16-static-ip.md)
 
 [VNC setup Lubuntu 16-04]()
