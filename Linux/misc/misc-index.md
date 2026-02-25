@@ -8,6 +8,8 @@
 
 [Encrypted zip file](misc.encrypted-zip.md)
 
+[Generate a Network Interface config](misc-gen-network-iface.md)
+
 [Make Appimage appear in Gnome Launcher](misc-appimage-desktop.md)
 
 [Batch rename files](misc-batch-rename.md)
