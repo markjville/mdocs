@@ -14,6 +14,8 @@
 
 [SCP](misc-scp.md)
 
+[SSH keys](ssh-keys.md)
+
 [Using DD](misc-dd.md)
 
 [View system log in real time](misc-sys-log-realtime.md)
@@ -21,3 +23,4 @@
 [Drivers in Linux](misc-drivers.md)
 
 [Virsh commands](misc-virsh.md)
+
