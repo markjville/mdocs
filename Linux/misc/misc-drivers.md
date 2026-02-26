@@ -1,19 +1,23 @@
 # Drivers in Linux:
 
-## lsmod
+## List the currently loaded modules
 
-“lsmod” will list currently loaded modules
+`lsmod`
 
 `lsmod | grep wl`  -  will return modules containing “wl” (wireless).
 
-## hwinfo
+## List the current hardware modules
 
-This may need to be installed.
+`hwinfo`
 
-## rmmod
+*Note:* This may need to be installed.
+
+## To remove modules
+
+`rmmod`
 
 This will remove module.
 
-## modprobe
+## Reload a module.
 
-This will reload a module.
+`modprobe`
