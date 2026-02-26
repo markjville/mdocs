@@ -56,15 +56,18 @@
 `	sudo setfacl -R -m u:youruser:rwx /var/www/ghost/`
 `	sudo chmod 775 /var/www/ghost`
 - Now change the working directory to /var/www/ghost/ and install Ghost.
-`	cd /var/www/ghost/`
-`	ghost install`
+`	`cd /var/www/ghost/`
+
+```
+ghost install
 - Answer questions:
-`	? Enter your blog URL: https://yourdomain.com`
-`	? Enter your MySQL hostname: localhost`
-`	? Enter your MySQL username: ghost`
-`	? Enter your MySQL password: ghost_password`
-`	? Enter your Ghost database name: ghost`
+`	? Enter your blog URL: https://yourdomain.com
+`	? Enter your MySQL hostname: localhost
+`	? Enter your MySQL username: ghost
+`	? Enter your MySQL password: ghost_password
+`	? Enter your Ghost database name: ghost
 - Recommended that you accept to set up Nginx, SSL, and Systemd.
+```
 	
 7) **Edit the Nginx Config File**
 `	sudo vi /etc/nginx/sites-enabled/yourdomain.com.conf`
