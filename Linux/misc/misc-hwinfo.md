@@ -16,6 +16,6 @@ or
 
 `lshw -class disk -class storage`
 
-## smartctl: to get smart info on drives
+## smartctl: to get S.M.A.R.T. health info on drives
 
 `smartctl -a /dev/sda`
