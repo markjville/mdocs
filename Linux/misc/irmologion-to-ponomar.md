@@ -28,5 +28,6 @@ make install
    ucs2unicode document.txt
 `
 
-4. It will output document.utf
+4. It will output `document.utf`
+
 One can select all text and change to ponomar font.
