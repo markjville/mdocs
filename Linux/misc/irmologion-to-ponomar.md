@@ -1,7 +1,6 @@
 # Proceedure to convert Irmologion to Ponomar font
 
-1. Install Lingua-cu utilities:
-https://github.com/typiconman/Perl-Lingua-CU(https://github.com/typiconman/Perl-Lingua-CU)
+1. Install [Lingua-cu utilities](https://github.com/typiconman/Perl-Lingua-CU)
 
 Note- there were many dependencies needed to complete installation:
 
