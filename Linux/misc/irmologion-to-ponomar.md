@@ -7,10 +7,15 @@ Note- there were many dependencies needed to complete installation:
 
 `
 perl-ExtUtils-MakeMaker 
+
 perl-Unicode-Collate
+
 perl-Test-Simple
+
 perl-Tie-IxHash
+
 perl-Unicode-Collate
+
 ucviewer
 `
 
@@ -18,8 +23,11 @@ Then one can install this utility;
 
 `
 perl Makefile.PL
+
 make
+
 make test
+
 make install
 `
 
